@@ -1,0 +1,26 @@
+/* External css */
+
+h3 {
+    color: blue;
+}
+/* External css */
+
+h3 {
+    color: purple;
+}
+
+/* class selector */
+.myclass {
+    color: orange;
+}
+
+/* id selector */
+#myid {
+    color: brown;
+}
+
+/* group selector */
+p,
+h6 {
+    color: maroon;
+}
